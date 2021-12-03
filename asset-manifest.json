@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a74ff578.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ba3270dc.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ba3270dc.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.7fc14fe1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.7fc14fe1.js.map",
+    "static/js/2.57fe97c1.chunk.js": "/Portfolio/static/js/2.57fe97c1.chunk.js",
+    "static/js/2.57fe97c1.chunk.js.map": "/Portfolio/static/js/2.57fe97c1.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.a74ff578.chunk.css.map": "/Portfolio/static/css/main.a74ff578.chunk.css.map",
+    "static/js/2.57fe97c1.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.57fe97c1.chunk.js.LICENSE.txt",
+    "static/media/Thomas Morgenstern - Resume.5b0d04d1.pdf": "/Portfolio/static/media/Thomas Morgenstern - Resume.5b0d04d1.pdf",
+    "static/media/ThomasMorgensternProjectProposal.98668a7e.pdf": "/Portfolio/static/media/ThomasMorgensternProjectProposal.98668a7e.pdf",
+    "static/media/clinic.fea4a735.png": "/Portfolio/static/media/clinic.fea4a735.png",
+    "static/media/App.scss": "/Portfolio/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/Portfolio/static/media/emailme.a60657eb.svg",
+    "static/media/frogger.db298f49.png": "/Portfolio/static/media/frogger.db298f49.png",
+    "static/media/howtoguide.ec1f88f9.png": "/Portfolio/static/media/howtoguide.ec1f88f9.png",
+    "static/media/location.5cd6776e.svg": "/Portfolio/static/media/location.5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/Portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/projectproposal.1014563d.png": "/Portfolio/static/media/projectproposal.1014563d.png",
+    "static/media/weatherapp.25126fc3.png": "/Portfolio/static/media/weatherapp.25126fc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc14fe1.js",
+    "static/js/2.57fe97c1.chunk.js",
+    "static/css/main.a74ff578.chunk.css",
+    "static/js/main.ba3270dc.chunk.js"
+  ]
+}
